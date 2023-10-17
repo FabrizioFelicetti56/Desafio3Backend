@@ -1,0 +1,20 @@
+[
+ {
+  "id": 1,
+  "title": "Pan",
+  "description": "Pan caliente rico",
+  "price": 200,
+  "thumbnail": "12314132",
+  "stock": 20,
+  "code": "abc123"
+ },
+ {
+  "id": 2,
+  "title": "Peras",
+  "description": "Frutas Ricas Update saludable",
+  "price": 300,
+  "thumbnail": "21312431",
+  "stock": 23,
+  "code": "abc1234"
+ }
+]
